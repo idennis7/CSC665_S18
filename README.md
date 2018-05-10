@@ -17,7 +17,7 @@ Software Used:
 --------------
 * Python 3.5.4
 
-* TensorFlow 1.5.1
+* TensorFlow 1.4.0
 
 * Keras 2.1.5
 
