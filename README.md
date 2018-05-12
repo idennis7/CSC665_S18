@@ -28,7 +28,7 @@ Set-up:
    `conda create -n csc665 python=3.5 anaconda`
 2. Install Tensorflow and Keras:
 
-   `conda install -n csc665 -c conda-forge tensorflow=1.5.1`
+   `conda install -n csc665 -c conda-forge tensorflow=1.4.0`
    `conda install -n csc665 -c conda-forge keras=2.1.5`
 3. Start anaconda environment:
 
